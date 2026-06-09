@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ░░ HEADER ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,4,2&height=210&section=header&text=PRVTHMP&fontSize=65&fontColor=fbbf24&animation=fadeIn&fontAlignY=48&desc=%E2%96%93%20CYPHER%20%E2%96%93%20Privacy-First%20Dev&descColor=fcd34d&descSize=16&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,4,2&height=210&section=header&text=Poorvith%M%P&fontSize=65&fontColor=fbbf24&animation=fadeIn&fontAlignY=48&desc=%E2%96%93%20Cypher%20%E2%96%93%20Privacy-First%20Dev&descColor=fcd34d&descSize=16&descAlignY=68" width="100%"/>
 
 <!-- ░░ TYPING ░░ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=900&color=FB923C&center=true&vCenter=true&width=600&lines=Aspiring+Developer+%7C+Indie+Builder+%E2%9A%A1;HTML+%C2%B7+CSS+%C2%B7+Python+Developer;Gen+AI+%26+AI+Tools+Enthusiast+%E2%9C%A8;Building+Privacy-First+Tools+%F0%9F%94%92;Founder+%E2%96%93+CYPHER" alt="Typing SVG"/>
