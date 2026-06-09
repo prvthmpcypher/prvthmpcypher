@@ -167,7 +167,7 @@ devops:
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=prvthmpcypher&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=prvthmpcypher&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Top Repos"/>
 
 </div>
 
@@ -181,7 +181,7 @@ devops:
 
 <div align="center">
 
-A coffee keeps the cipher running 🔒
+A coffee keeps the cypher running 🔒
 
 <br/>
 
