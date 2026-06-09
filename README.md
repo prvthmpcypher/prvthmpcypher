@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- ░░ HEADER ░░ -->
-<img src="https://capsule-render.vercel.app/api?type=vortex&color=gradient&customColorList=24,20,14,12&height=220&section=header&text=PRVTHMP&fontSize=65&fontColor=00D4FF&animation=fadeIn&fontAlignY=50&desc=%E2%96%93%20CYPHER%20%E2%96%93%20Privacy-First%20Dev&descColor=c084fc&descSize=16&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,4,2&height=210&section=header&text=PRVTHMP&fontSize=65&fontColor=fbbf24&animation=fadeIn&fontAlignY=48&desc=%E2%96%93%20CYPHER%20%E2%96%93%20Privacy-First%20Dev&descColor=fcd34d&descSize=16&descAlignY=68" width="100%"/>
 
-<!-- ░░ TERMINAL TYPING ░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=600&lines=%5BSYS%5D+Booting+cypher+protocol...+%E2%9C%93;%5BSYS%5D+Identity+verified.+Welcome.;Aspiring+Developer+%7C+Indie+Builder+%E2%9A%A1;I+learn+by+shipping+%F0%9F%9A%80;Building+privacy-first+tools+%F0%9F%94%92;Founder+%E2%96%93+CYPHER" alt="Typing SVG" />
+<!-- ░░ TYPING ░░ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2600&pause=900&color=FB923C&center=true&vCenter=true&width=600&lines=Aspiring+Developer+%7C+Indie+Builder+%E2%9A%A1;HTML+%C2%B7+CSS+%C2%B7+Python+Developer;Gen+AI+%26+AI+Tools+Enthusiast+%E2%9C%A8;Building+Privacy-First+Tools+%F0%9F%94%92;Founder+%E2%96%93+CYPHER" alt="Typing SVG"/>
 
 <br/>
 
 <!-- ░░ PROFILE VIEWS ░░ -->
-<img src="https://komarev.com/ghpvc/?username=prvthmpcypher&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=prvthmpcypher&color=f97316&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -17,44 +17,54 @@
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ ABOUT ░░░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20&height=2&section=header" width="100%"/>
-</div>
-
-<br/>
+<!-- ░░░░░░░░░ ABOUT + STACK ░░░░░░░░░ -->
 
 <table>
 <tr>
-<td valign="top" width="65%">
 
-### 〔 ▓ 〕 About Me
+<td valign="top" width="52%">
+
+### 〔 ▓ 〕 Agent Profile
 
 ```
-> whoami
-  prvthmp — aspiring dev & indie builder
-
-> cat mission.txt
-  Building privacy-first tools,
-  part of a larger vision: CYPHER.
-
-> uptime
-  I learn by shipping ⚡
+╔══════════════════════════════════════╗
+║   ▓ CYPHER  //  AGENT PROFILE        ║
+╠══════════════════════════════════════╣
+║                                      ║
+║  CODENAME  ·  prvthmp                ║
+║  ROLE      ·  Indie Builder          ║
+║  MISSION   ·  Privacy-First Dev      ║
+║  VISION    ·  ▓ CYPHER               ║
+║  METHOD    ·  Learn by Shipping ⚡   ║
+║  STATUS    ·  🟢  Actively Building  ║
+║                                      ║
+╚══════════════════════════════════════╝
 ```
 
 </td>
-<td valign="top" width="35%" align="center">
 
-### 〔 🔒 〕 Stack Overview
+<td valign="top" width="48%">
+
+### 〔 🔐 〕 Capabilities
 
 ```yaml
-role:     Indie Builder
-focus:    Privacy-First
-vision:   ▓ CYPHER
-design:   Figma · Canva · Sketch
-build:    Vite · TailwindCSS
-vcs:      GitHub
+# capabilities.yml
+
+code:
+  - HTML & CSS
+  - Python
+
+ai:
+  - Generative AI
+  - AI Tools
+
+design:
+  - Figma
+  - Canva
+  - Adobe Express
+
+devops:
+  - Git & GitHub
 ```
 
 </td>
@@ -65,7 +75,7 @@ vcs:      GitHub
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ SOCIALS ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░ SOCIALS ░░░░░░░░░ -->
 
 ## 🌐 Find Me
 
@@ -82,24 +92,27 @@ vcs:      GitHub
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░ TECH STACK ░░░░░░░░░ -->
 
 ## 💻 Tech Stack
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tailwind,vite,figma,github&theme=dark&perline=4"/>
+  <img src="https://skillicons.dev/icons?i=html,css,python,git,github,figma&theme=dark&perline=6"/>
 </a>
 
 <br/><br/>
 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-%23FF6F00.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -107,7 +120,7 @@ vcs:      GitHub
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░ STATS ░░░░░░░░░ -->
 
 ## 📊 GitHub Stats
 
@@ -116,17 +129,17 @@ vcs:      GitHub
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.shion.dev/api?username=prvthmpcypher&theme=maroongold&hide_border=false&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.shion.dev/api?username=prvthmpcypher&bg_color=0f0a18&title_color=f97316&text_color=e2e8f0&icon_color=ec4899&border_color=f97316&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats"/>
 </td>
 <td>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prvthmpcypher&theme=maroongold&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prvthmpcypher&bg_color=0f0a18&title_color=f97316&text_color=e2e8f0&border_color=f97316&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=prvthmpcypher&theme=maroongold&hide_border=false" alt="GitHub Streak" width="65%"/>
+<img src="https://streak-stats.demolab.com/?user=prvthmpcypher&background=0f0a18&border=f97316&stroke=f97316&ring=ec4899&fire=fbbf24&currStreakLabel=f97316&sideLabels=ec4899&dates=888888&currStreakNum=fbbf24&sideNums=e2e8f0" alt="GitHub Streak" width="60%"/>
 
 </div>
 
@@ -134,13 +147,13 @@ vcs:      GitHub
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ ACTIVITY GRAPH ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░ ACTIVITY ░░░░░░░░░ -->
 
 ## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prvthmpcypher&bg_color=0d0d1a&color=00d4ff&line=a855f7&point=c084fc&area=true&area_color=1a0533&hide_border=false&radius=6" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prvthmpcypher&bg_color=0f0a18&color=f97316&line=ec4899&point=fbbf24&area=true&area_color=3d0a18&hide_border=false&radius=6" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -148,41 +161,13 @@ vcs:      GitHub
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░░░░░░ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prvthmpcypher&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ DEV QUOTE ░░░░░░░░░░░░░░░░░░░░░░ -->
-
-## ✍️ Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
-
-</div>
-
-<br/>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ TOP CONTRIBUTIONS ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░ TOP CONTRIBUTIONS ░░░░░░░░░ -->
 
 ## 🔝 Top Contributed Repos
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=prvthmpcypher&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Top Repos"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=prvthmpcypher&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos"/>
 
 </div>
 
@@ -190,13 +175,13 @@ vcs:      GitHub
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░ SUPPORT ░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░ SUPPORT ░░░░░░░░░ -->
 
-## 💰 Support the Build
+## ☕ Support the Build
 
 <div align="center">
 
-If you find value in what I'm building, a coffee keeps the cipher running ☕
+A coffee keeps the cipher running 🔒
 
 <br/>
 
@@ -206,17 +191,15 @@ If you find value in what I'm building, a coffee keeps the cipher running ☕
 
 <br/>
 
----
-
 <!-- ░░ FOOTER ░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=2000&color=a855f7&center=true&vCenter=true&width=400&lines=%5BSYS%5D+Session+closed.+Stay+encrypted.+%E2%96%93" alt="Footer Type"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=3000&color=f97316&center=true&vCenter=true&width=380&lines=%E2%96%93+Built+with+intent.+Shipped+with+purpose." alt="Footer"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,14,12&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,4,2&height=110&section=footer" width="100%"/>
 
 </div>
 
-<!-- ▓ Built with intent. Shipped with purpose. — Cypher -->
+<!-- ▓ Cypher — Privacy by default. -->
