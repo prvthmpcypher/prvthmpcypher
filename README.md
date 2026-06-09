@@ -167,8 +167,7 @@ devops:
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=prvthmpcypher&limit=5&theme=date_night&combine_all_yearly_contributions=true" alt="Top Repos"/>
-
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=prvthmpcypher&bg_color=0f0a18&title_color=f97316&text_color=e2e8f0&border_color=f97316&layout=compact&langs_count=8" alt="Top Repos"/>
 </div>
 
 <br/>
